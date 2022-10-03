@@ -1,1 +1,6 @@
-MODULE=Skeleton
+MODULE=Überschrift
+ANCHOR=Ankerlink
+SELECT_CHOOSE=-bitte wählen-
+INDEX=Index
+INDEX_INFO=Index muss eindeutig sein, über alle Module in der Konfiguration des Artikels
+INDEX_ERROR=Es besteht bereits ein Index mit dieser Nummer in der Konfiguration des Artikels

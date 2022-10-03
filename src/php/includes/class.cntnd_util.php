@@ -1,6 +1,6 @@
 <?php
 
-namespace Cntnd\Skeleton;
+namespace Cntnd\Header;
 
 /**
  * cntnd Util Class
