@@ -6,7 +6,6 @@ $(document).ready(function(){
         $('.index_error').hide();
         $('.cntnd_header-index').each(function () {
             var uuid = $(this).attr('data-uuid');
-            console.log(uuid, this.value, values, values.includes(this.value))
             if (!values.includes(this.value)) {
                 values.push(this.value)
             } else {
